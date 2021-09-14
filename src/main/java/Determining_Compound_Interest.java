@@ -1,7 +1,8 @@
 /*
  * UCF COP3330 Fall 2021 Assignment 1 Solution
  * Copyright 2021 Deirdre Gruman-Walsh
- */import java.util.Scanner;
+ */
+import java.util.Scanner;
 
 public class Determining_Compound_Interest {
         public static void main(String[] args) {
